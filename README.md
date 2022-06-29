@@ -1,0 +1,2 @@
+# JShansQARep
+My personal projects
